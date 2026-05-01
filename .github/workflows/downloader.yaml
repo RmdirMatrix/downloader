@@ -1,4 +1,4 @@
-name: AVASAM - Download from URLs & Save to Repo
+name: ⬇️ Download from url
 
 on:
   workflow_dispatch:
