@@ -1,0 +1,90 @@
+# Visited: https://www.blurweb.app
+**Time:** Mon May 11 04:21:46 UTC 2026
+
+## Favicon
+![Favicon](./media/favicon.ico)
+
+## Screenshot
+![Screenshot](./screenshot.png)
+
+## Raw HTML
+[page.html](./page.html)
+
+## Downloaded Media (20 files)
+## Downloaded Media Files
+
+- [1778473302_favicon.ico](./media/1778473302_favicon.ico) (171 KB)
+![leaves-left.webp](./media/leaves-left.webp)
+![leaves-right.webp](./media/leaves-right.webp)
+![logo.svg](./media/logo.svg)
+![Safari_browser_logo.svg](./media/Safari_browser_logo.svg)
+![review1.jpeg](./media/review1.jpeg)
+![review7.jpeg](./media/review7.jpeg)
+![anatolity-blurweb-app.jpeg](./media/anatolity-blurweb-app.jpeg)
+![andrewburnett.jpg](./media/andrewburnett.jpg)
+![b28f77873b5f152db7dd5a9f6ce260f357f8b9a7.svg](./media/b28f77873b5f152db7dd5a9f6ce260f357f8b9a7.svg)
+![Google_Meet_text_logo_%282020%29.svg](./media/Google_Meet_text_logo_%282020%29.svg)
+![Zoom_Communications_Logo.svg](./media/Zoom_Communications_Logo.svg)
+![Skype_logo.svg](./media/Skype_logo.svg)
+![Microsoft_Office_Teams_%282018%E2%80%93present%29.svg](./media/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg)
+![OBS_Studio_Logo.svg](./media/OBS_Studio_Logo.svg)
+- [121856996-c3062f80-cd12-11eb-8199-5c4001b2da4a.mp4](./media/121856996-c3062f80-cd12-11eb-8199-5c4001b2da4a.mp4) (1539 KB)
+- [121857197-fc3e9f80-cd12-11eb-9bc2-b024882b6ffd.mp4](./media/121857197-fc3e9f80-cd12-11eb-9bc2-b024882b6ffd.mp4) (1273 KB)
+- [121857355-2a23e400-cd13-11eb-94f8-7ae07a6b8606.mp4](./media/121857355-2a23e400-cd13-11eb-94f8-7ae07a6b8606.mp4) (1509 KB)
+- [121858614-6dcb1d80-cd14-11eb-95ca-026613ce0951.mp4](./media/121858614-6dcb1d80-cd14-11eb-95ca-026613ce0951.mp4) (1376 KB)
+
+## Other Links
+- [#and-more](#and-more)
+- [#blur-area](#blur-area)
+- [#features](#features)
+- [#keep-blur](#keep-blur)
+- [#pricing](#pricing)
+- [#single-click-blur](#single-click-blur)
+- [/](/)
+- [/_next/image?url=%2Fimages%2Flogos%2Fchrome.png&amp;w=64&amp;q=75](/_next/image?url=%2Fimages%2Flogos%2Fchrome.png&amp;w=64&amp;q=75)
+- [/_next/image?url=%2Fimages%2Flogos%2Fedge.png&amp;w=64&amp;q=75](/_next/image?url=%2Fimages%2Flogos%2Fedge.png&amp;w=64&amp;q=75)
+- [/_next/image?url=%2Fimages%2Flogos%2Ffirefox.png&amp;w=64&amp;q=75](/_next/image?url=%2Fimages%2Flogos%2Ffirefox.png&amp;w=64&amp;q=75)
+- [/_next/image?url=https%3A%2F%2Fimagedelivery.net%2FTSS9MNbk5OgljsN1vgxt7w%2F694958f3-77cf-4409-d5d7-5c2b860f9000%2Fpublic&amp;w=750&amp;q=75](/_next/image?url=https%3A%2F%2Fimagedelivery.net%2FTSS9MNbk5OgljsN1vgxt7w%2F694958f3-77cf-4409-d5d7-5c2b860f9000%2Fpublic&amp;w=750&amp;q=75)
+- [/_next/image?url=https%3A%2F%2Fimagedelivery.net%2FTSS9MNbk5OgljsN1vgxt7w%2F9b3d5638-9b26-4342-cdd9-4280e4887b00%2Fpublic&amp;w=750&amp;q=75](/_next/image?url=https%3A%2F%2Fimagedelivery.net%2FTSS9MNbk5OgljsN1vgxt7w%2F9b3d5638-9b26-4342-cdd9-4280e4887b00%2Fpublic&amp;w=750&amp;q=75)
+- [/_next/image?url=https%3A%2F%2Fimagedelivery.net%2FTSS9MNbk5OgljsN1vgxt7w%2Fcc5de911-9295-4496-8ca6-5ab7d6ea4a00%2Fpublic&amp;w=750&amp;q=75](/_next/image?url=https%3A%2F%2Fimagedelivery.net%2FTSS9MNbk5OgljsN1vgxt7w%2Fcc5de911-9295-4496-8ca6-5ab7d6ea4a00%2Fpublic&amp;w=750&amp;q=75)
+- [/_next/image?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dads.google.com%26sz%3D64&amp;w=3840&amp;q=75](/_next/image?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dads.google.com%26sz%3D64&amp;w=3840&amp;q=75)
+- [/_next/image?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dadvertising.amazon.in%26sz%3D64&amp;w=3840&amp;q=75](/_next/image?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dadvertising.amazon.in%26sz%3D64&amp;w=3840&amp;q=75)
+- [/_next/image?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dairtable.com%26sz%3D64&amp;w=3840&amp;q=75](/_next/image?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dairtable.com%26sz%3D64&amp;w=3840&amp;q=75)
+- [/_next/image?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Danalytics.google.com%26sz%3D64&amp;w=3840&amp;q=75](/_next/image?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Danalytics.google.com%26sz%3D64&amp;w=3840&amp;q=75)
+- [/_next/image?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dbilling.stripe.com%26sz%3D64&amp;w=3840&amp;q=75](/_next/image?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dbilling.stripe.com%26sz%3D64&amp;w=3840&amp;q=75)
+- [/_next/image?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dbusiness.facebook.com%26sz%3D64&amp;w=3840&amp;q=75](/_next/image?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dbusiness.facebook.com%26sz%3D64&amp;w=3840&amp;q=75)
+- [/_next/image?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Ddocs.google.com%26sz%3D64&amp;w=3840&amp;q=75](/_next/image?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Ddocs.google.com%26sz%3D64&amp;w=3840&amp;q=75)
+- [/_next/image?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dmail.google.com%26sz%3D64&amp;w=3840&amp;q=75](/_next/image?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dmail.google.com%26sz%3D64&amp;w=3840&amp;q=75)
+- [/_next/image?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dsheets.google.com%26sz%3D64&amp;w=3840&amp;q=75](/_next/image?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dsheets.google.com%26sz%3D64&amp;w=3840&amp;q=75)
+- [/_next/static/chunks/3794-d7a5695196ea333d.js](/_next/static/chunks/3794-d7a5695196ea333d.js)
+- [/_next/static/chunks/4bd1b696-1791e0ff31dc82df.js](/_next/static/chunks/4bd1b696-1791e0ff31dc82df.js)
+- [/_next/static/chunks/5485-f7003c17a0edede7.js](/_next/static/chunks/5485-f7003c17a0edede7.js)
+- [/_next/static/chunks/7645-1e68ec8573846c54.js](/_next/static/chunks/7645-1e68ec8573846c54.js)
+- [/_next/static/chunks/8500-c5d80b469ddb528b.js](/_next/static/chunks/8500-c5d80b469ddb528b.js)
+- [/_next/static/chunks/979-40f79ac94773e1c1.js](/_next/static/chunks/979-40f79ac94773e1c1.js)
+- [/_next/static/chunks/app/layout-4005da30bbf03296.js](/_next/static/chunks/app/layout-4005da30bbf03296.js)
+- [/_next/static/chunks/app/page-c5e92f5099954659.js](/_next/static/chunks/app/page-c5e92f5099954659.js)
+- [/_next/static/chunks/main-app-d4b7f8551ba95e13.js](/_next/static/chunks/main-app-d4b7f8551ba95e13.js)
+- [/_next/static/chunks/polyfills-42372ed130431b0a.js](/_next/static/chunks/polyfills-42372ed130431b0a.js)
+- [/_next/static/chunks/webpack-d9444839d2719d52.js](/_next/static/chunks/webpack-d9444839d2719d52.js)
+- [/_next/static/css/42ddf988a155de73.css](/_next/static/css/42ddf988a155de73.css)
+- [/_next/static/css/fc554722b7cdff8a.css](/_next/static/css/fc554722b7cdff8a.css)
+- [/blog](/blog)
+- [/blog/best-blur-background-apps-in-2024-ios-android](/blog/best-blur-background-apps-in-2024-ios-android)
+- [/blog/hide-desktop-icons-while-screen-sharing](/blog/hide-desktop-icons-while-screen-sharing)
+- [/blog/this-app-helps-use-ai-inside-google-sheets](/blog/this-app-helps-use-ai-inside-google-sheets)
+- [/contact](/contact)
+- [/docs](/docs)
+- [/forgot](/forgot)
+- [/help](/help)
+- [/manifest.json](/manifest.json)
+- [/my-account](/my-account)
+- [/pricing](/pricing)
+- [/privacy-policy](/privacy-policy)
+- [/refund-policy](/refund-policy)
+- [/terms-of-use](/terms-of-use)
+- [/tools](/tools)
+
+## Stats
+- Links: 110
+- Media: 20
